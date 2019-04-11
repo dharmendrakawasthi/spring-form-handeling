@@ -1,0 +1,35 @@
+body {
+	background: #fff;
+}
+
+.wrapper {
+	max-width: 250px;
+	max-height: 500px;
+	background: #661212;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid #908F8F;
+	border-radius: 10px;
+	box-shadow: 5px 5px #ECAAAA, -1em 0 .4em #ccc;
+}
+
+.input-text {
+	width: 230px;
+	height: 30px;
+	margin: 10px;
+	border-radius: 5px;
+	font-size: 15px;
+	color: #4E4949;
+	text-align: center;
+}
+.form-button{
+	width: 100px;
+	height: 35px;
+	margin: 10px;
+	border-radius: 5px;
+	font-size: 15px;
+	background: #354F8F;
+	border: 0px;
+	color: #ddd;
+}
